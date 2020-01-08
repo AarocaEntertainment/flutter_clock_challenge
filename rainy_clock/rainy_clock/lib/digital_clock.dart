@@ -127,7 +127,7 @@ class _DigitalClockState extends State<DigitalClock> {
               // Positioned(left: offset, top: 0, child: Text(hour)),
               // Positioned(right: offset, bottom: offset, child: Text(minute)),
               Text(hour),
-              Text(minute)
+              Text(minute),
             ],
           ),
         ),
